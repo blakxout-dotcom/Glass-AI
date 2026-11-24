@@ -1,4 +1,4 @@
-# Glass — a liquid-glass AI sidebar for Windows
+# Glass — a liquid-glass AI sidebar for Windows and Mac
 
 Flick your mouse hard into the left or right edge of the screen and a sidebar made of real-time refracting glass springs out. Chat with Claude, Gemini, Groq, or any OpenAI-compatible model, and go fullscreen when you want more room.
 
